@@ -18,3 +18,5 @@ Also a appsettings.json file is needed:
   "prefix" : "!",
   "token" : ""
 }
+
+![image](https://user-images.githubusercontent.com/5538299/130368181-defdb8cd-b6eb-4e28-a319-7d12479f97f7.png)
