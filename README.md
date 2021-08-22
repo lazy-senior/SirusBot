@@ -19,4 +19,6 @@ Also a appsettings.json file is needed:
   "token" : ""
 }
 
-![image](https://user-images.githubusercontent.com/5538299/130368181-defdb8cd-b6eb-4e28-a319-7d12479f97f7.png)
+
+![image](https://user-images.githubusercontent.com/5538299/130368233-5f03bc93-c760-437d-ad38-7aa0f15c8072.png)
+
